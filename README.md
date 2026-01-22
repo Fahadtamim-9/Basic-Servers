@@ -1,2 +1,1 @@
-Web Servers using HTTP and Express. 
-This is very basic Js code for creating a server.
+Web Servers using HTTP and Express, these are very basic Js code for creating a server.
